@@ -6,8 +6,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: about.qmd
+        text: Projects
+    right:
+      - icon: github
+        text: Website Source Code
+        url: https://github.com/mishareiss9/personal-website
+      - text: Github Profile
+        url: https://github.com/mishareiss9
 
 format:
   html:
@@ -16,4 +23,7 @@ format:
     toc: true
 
 editor: visual
+
+execute: 
+  freeze: auto
 

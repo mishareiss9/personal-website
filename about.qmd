@@ -1,5 +1,9 @@
 ---
-title: "About"
+title: "Projects"
 ---
 
-About this site
+Here are some projects I've done:
+
+-   [NBA Player Stats Analysis](https://nbviewer.org/github/mishareiss9/NBA-Analysis/blob/main/NBADataAnalysis.ipynb): A deep dive into NBA player statistics over the last 10 seasons
+
+-   [Movie Review Sentiment Prediction](/docs/101C_Final.pdf): An exploration of the relationship between ratings and reviews

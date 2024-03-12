@@ -2,15 +2,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "Here are some projects I’ve done:\n\nNBA Player Stats Analysis: A deep dive into NBA player statistics over the last 10 seasons\nMovie Review Sentiment Prediction: An exploration of the relationship between ratings and reviews"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Misha Reiss",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 5\n\n[1] 6"
+    "text": "Misha Reiss is currently a senior at UCLA majoring in Statistics and Data Science. He will be graduating in June 2024. He is the president of the UCLA Club Basketball team and has an avid passion for sports both as a fan and an analyst. To learn more about me and my experience, please read below or see my resume here."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Misha Reiss",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics & Data Science | October 2020 - June 2024\nRelevant Coursework: Data Analysis and Regression, Computational Statistics with R, Design and Analysis of Experiment, Probability, Mathematical Statistics, Monte Carlo Methods, Statistical Models in Finance, Applied Sampling, Statistical Consulting"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Misha Reiss",
+    "section": "Experience",
+    "text": "Experience\nPlayground | Data Science Intern | April 2021 - August 2022\n\nUtilized R, SQL, and Tableau to clean and analyze data, produce descriptive statistics and compile dashboards to present to stakeholders specifically in terms of user retention\nDeveloped machine learning models using scikit-learn and TensorFlow to predict customer behavior and improve product recommendations\nParticipated in board meetings and contributed to the decision-making process for what new features to add to the platform\n\nGeffen Adacemy at UCLA | High School Varsity Basketball Assistant Coach | November 2022 - March 2023\n\nLed team to first playoff win in school history\nRan practices prioritizing player development and team chemistry\nGame planned by analyzing film and strategizing with coaching staff\n\nLavner Education | Technology Instructor | June 2022 - August 2022\n\nTaught students ages 7-13 how to code in Python, Java, and C++\nDesigned interest-based projects\nCustomized curriculum to accommodate different levels of experience"
+  },
+  {
+    "objectID": "index.html#extracurriculars",
+    "href": "index.html#extracurriculars",
+    "title": "Misha Reiss",
+    "section": "Extracurriculars",
+    "text": "Extracurriculars\n\nPresident, UCLA Club Basketball\nWebsite Manager, Bruin Sports Business Association\nMember, Bruins Sports Analytics\nHeritage Chair, Zeta Beta Tau Fraternity\n\nInterests: Basketball, Football, Soccer, Bowling, Hiking, Travelling, Coding, Video Games, Cooking"
   }
 ]

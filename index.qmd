@@ -1,11 +1,60 @@
 ---
-title: "personal-website"
+title: "Misha Reiss"
+about:
+  template: broadside
+  image: linkedinphoto.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/misha-reiss-9b60b820b/
+    - icon: github
+      text: Github
+      href: https://github.com/mishareiss9
 ---
 
-This is a Quarto website.
+Misha Reiss is currently a senior at UCLA majoring in Statistics and Data Science. He will be graduating in June 2024. He is the president of the UCLA Club Basketball team and has an avid passion for sports both as a fan and an analyst. To learn more about me and my experience, please read below or see my resume [here](docs/MishaReissResume2024v1.pdf "Misha Reiss Resume").
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 5
-```
+University of California, Los Angeles \| Los Angeles, CA
+B.S in Statistics & Data Science \| October 2020 - June 2024
+
+Relevant Coursework: Data Analysis and Regression, Computational Statistics with R, Design and Analysis of Experiment, Probability, Mathematical Statistics, Monte Carlo Methods, Statistical Models in Finance, Applied Sampling, Statistical Consulting
+
+## Experience
+
+**Playground \| Data Science Intern \| April 2021 - August 2022**
+
+-   Utilized R, SQL, and Tableau to clean and analyze data, produce descriptive statistics and compile dashboards to present to stakeholders specifically in terms of user retention
+
+-   Developed machine learning models using scikit-learn and TensorFlow to predict customer behavior and improve product recommendations
+
+-   Participated in board meetings and contributed to the decision-making process for what new features to add to the platform
+
+**Geffen Adacemy at UCLA \| High School Varsity Basketball Assistant Coach \| November 2022 - March 2023**
+
+-   Led team to first playoff win in school history
+
+-   Ran practices prioritizing player development and team chemistry
+
+-   Game planned by analyzing film and strategizing with coaching staff
+
+**Lavner Education \| Technology Instructor \| June 2022 - August 2022**
+
+-   Taught students ages 7-13 how to code in Python, Java, and C++
+
+-   Designed interest-based projects
+
+-   Customized curriculum to accommodate different levels of experience
+
+## Extracurriculars
+
+-   President, UCLA Club Basketball
+
+-   Website Manager, Bruin Sports Business Association
+
+-   Member, Bruins Sports Analytics
+
+-   Heritage Chair, Zeta Beta Tau Fraternity
+
+Interests: Basketball, Football, Soccer, Bowling, Hiking, Travelling, Coding, Video Games, Cooking
